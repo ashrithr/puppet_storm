@@ -1,7 +1,11 @@
+Description:
+===========
+Install and manages storm, a distributed realtime computation system
+
 Dependencies:
 ============
-JAVA
-ZOOKEEPER
+[JAVA](https://github.com/ashrithr/puppet_java.git)
+[ZOOKEEPER](https://github.com/ashrithr/puppet_zookeeper.git)
 
 Sample Usage:
 ============
